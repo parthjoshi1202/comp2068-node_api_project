@@ -1,5 +1,9 @@
 # comp2068-node_api_project
 
+●	Demonstrated understanding of building RESTful API using NodeJS where a user can create, read, update and delete cuisines and related food dishes (parent-child resource)
+●	It  fetches data in a JSON format. Plus, the user can login, get a token, then use that token to request any resource data
+●	The requests can be made using Hoppscotch or Postman. The data is stored in MongoDB
+
 Endpoints: http://localhost:4000/cuisines , http://localhost:4000/foods , http://localhost:4000/users , http://localhost:4000/authenticate
 
 User credentials: user id: "607b5294c67c2c5648fdf40e", name: parth, email: test@tester.com, password: asdf
